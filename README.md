@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
+![image](https://github.com/OmarZahrah/OmarZahrah/assets/120282274/73aa0d87-45db-47b4-b72f-6d6a70ce7499)
 
 Iam a computer science student, passionate about coding, solving problems and learning new technologies.
 
