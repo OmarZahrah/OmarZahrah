@@ -10,7 +10,7 @@ Iam a computer science student, passionate about coding, solving problems and le
 
 * 🌍  I'm based in Ismailia,Egypt
 * ✉️  You can contact me at [omar.zahrah01@gmail.com](mailto:omar.zahrah01@gmail.com)
-* 🧠  I'm learning backend development with node js and mongo db.
+* 🧠  I'm currently learning backend development with node js and mongo db.
 
 ### Skills
 
