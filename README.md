@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Iam a computer science student, passionate about coding, solving problems and learning new technologies.
+Iam a computer science Graduate, passionate about coding, solving problems and learning new technologies.
 
 * 🌍  I'm based in Ismailia,Egypt
 * ✉️  You can contact me at [omar.zahrah01@gmail.com](mailto:omar.zahrah01@gmail.com)
-* 🧠  I'm currently learning backend development with node js and mongo db.
+* 🧠  I'm currently learning Next JS & backend development with node js and mongo db.
 
 ### Skills
 
